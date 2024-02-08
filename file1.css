@@ -1,0 +1,43 @@
+.cars-button {
+    color: blue; 
+    font-size: 35px; 
+    font-weight: bold; 
+    text-decoration: none; 
+}
+
+
+.car-title {color: black;
+font font-size: 15px; }
+
+.new-car {  
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: green; 
+    border: none; 
+    text-align: center; 
+    color: white; 
+    text-decoration: none; 
+    cursor: pointer; 
+    border-radius: 5px; 
+}       
+
+
+.image1 {
+    display: block;
+    margin-top: 20px; 
+}
+
+
+
+.text { text-align: center;            }
+
+
+img {
+    width: 300px; 
+    height: auto; 
+}       
+
+
+
+
+
